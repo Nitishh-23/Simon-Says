@@ -1,0 +1,1 @@
+This is Simple Game of Simon-Says made usning HTML,CSS and JavaScript.
