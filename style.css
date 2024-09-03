@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    border-radius: 10%;;
+    margin: 0.5rem;
+}
+.btnContainer{
+    display:flex;
+    justify-content: center;
+}
+.one{
+    background-color: rgb(198, 77, 77);
+}
+.two{
+    background-color: rgb(68, 122, 144);
+}
+.three{
+    background-color: rgb(72, 154, 72);
+}
+.four{
+    background-color: rgb(132, 66, 145);
+}
+.flash{
+    background-color: white;
+}
